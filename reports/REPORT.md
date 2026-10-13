@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Lương Khánh Toàn - 2A202602836  **Commit:** a3f9ce7078c14d183ed1e95d311a2df59bc86855  **Điểm tự động (`make grade`):** 84.0 / 88 (+ 4đ SLO hidden của giảng viên)
+**Họ tên / nhóm:** Lương Khánh Toàn - 2A202602836  **Commit:** 0d550dd34a5a56aae3b60b28ec696310d110ec0e  **Điểm tự động (`make grade`):** 84.0 / 88 (+ 4đ SLO hidden của giảng viên)
 
 > Mọi nhận định phải có số. Dán số từ `reports/gameday/*.json`, `reports/workflows.json`, `reports/slo.json`.
 
